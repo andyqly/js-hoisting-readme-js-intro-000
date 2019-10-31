@@ -1,4 +1,4 @@
-var hoisting = "before all";
+function hoisting() = {"before all";}
 
 
 function callMe() {
