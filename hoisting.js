@@ -1,4 +1,4 @@
-function hoisting
+var hoisting
 console.log("before all")
 
 function callMe() {
