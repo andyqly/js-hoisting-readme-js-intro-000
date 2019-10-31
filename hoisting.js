@@ -1,5 +1,5 @@
-var hoisting
-console.log("before all")
+var hoisting = "before all"
+
 
 function callMe() {
   var lyric = "maybe";
