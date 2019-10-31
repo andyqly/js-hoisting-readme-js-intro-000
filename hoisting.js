@@ -1,3 +1,14 @@
+
+
+function crazy() {
+  // fix the code in here:
+  thisIsCrazy();
+
+  var thisIsCrazy = function (){
+    console.log("hey!!!")
+  }
+}
+
 function callMe() {
   var lyric = "maybe";
   console.log("I just met you...");
@@ -9,14 +20,6 @@ function callMe() {
 }
 
 
-function crazy() {
-  // fix the code in here:
-  thisIsCrazy();
-
-  var thisIsCrazy = function (){
-    console.log("hey!!!")
-  }
-}
 
 function sayMyName() {
   // fix the code in here:
